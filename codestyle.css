@@ -11,28 +11,20 @@ header- {
 }
 
 header-top {
-    width: 100%;
     background-color: #cabbb7;
-    height: 10em;
-    display: inline-block;
 }
 
 title-wrapper {
-    width: 70%;
-    height: 100%;
+    width: 50%;
+    height: 200px;
     float: left;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline-block;
 }
 
 logo-wrapper {
-    width: 30%;
-    height: 100%;
+    width: 50%;
+    height: 200px;
     float: right;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     display: inline-block;
 }
 
