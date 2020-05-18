@@ -3,9 +3,6 @@
     padding: 0;
 }
 
-
-/* header starts */
-
 header {
     background-color: #CABBB7;
     text-align: right;
@@ -26,12 +23,6 @@ header {
     left: 11%;
     top: 17%;
 }
-
-
-/*header ends*/
-
-
-/*navbar starts*/
 
 nav {
     color: #F0ECEC;
@@ -58,12 +49,6 @@ li a {
     word-spacing: 0.2em;
     font-family: sans-serif;
 }
-
-
-/*navbar ends*/
-
-
-/* Contact form for contact.html starts*/
 
 .heading {
     text-align: center;
@@ -104,12 +89,6 @@ textarea {
     width: 50%;
 }
 
-
-/* Contact form ends */
-
-
-/* Main content blog.html starts */
-
 #container {
     display: inline-block;
     padding: 2em;
@@ -129,12 +108,6 @@ textarea {
 .article>h1 {
     font-size: 2.5em;
 }
-
-
-/* Main content blog.html ends */
-
-
-/* styling aboutme.html-start */
 
 #aboutme {
     text-align: justify;
@@ -171,12 +144,6 @@ textarea {
     text-decoration: underline;
     font-style: italic;
 }
-
-
-/* styling aboutme.html-end   */
-
-
-/*footer starts*/
 
 footer {
     font-family: sans-serif;
